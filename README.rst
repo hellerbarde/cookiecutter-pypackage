@@ -31,7 +31,7 @@ Cookiecutter 1.4.0 or higher)::
 
 Generate a Python package project::
 
-    cookiecutter https://github.com/audreyr/cookiecutter-pypackage.git
+    cookiecutter https://github.com/hellerbarde/cookiecutter-pypackage.git
 
 Then:
 
@@ -103,5 +103,5 @@ make my own packaging experience better.
 .. _`tony/cookiecutter-pypackage-pythonic`: https://github.com/tony/cookiecutter-pypackage-pythonic
 .. _`ardydedase/cookiecutter-pypackage`: https://github.com/ardydedase/cookiecutter-pypackage
 .. _github comparison view: https://github.com/tony/cookiecutter-pypackage-pythonic/compare/audreyr:master...master
-.. _`network`: https://github.com/audreyr/cookiecutter-pypackage/network
-.. _`family tree`: https://github.com/audreyr/cookiecutter-pypackage/network/members
+.. _`network`: https://github.com/hellerbarde/cookiecutter-pypackage/network
+.. _`family tree`: https://github.com/hellerbarde/cookiecutter-pypackage/network/members
